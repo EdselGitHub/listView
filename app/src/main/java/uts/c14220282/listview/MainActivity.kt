@@ -70,7 +70,6 @@ class MainActivity : AppCompatActivity() {
             }
         })
 
-//        binding.searchvw.setOnQueryTextListener(object)
 
     }
 }
